@@ -7,3 +7,4 @@
 * [अगाडि-अन्त कोड](https://github.com/xxai-art/web)
 * [सम्पूर्ण साइटको लागि भाषा प्याकहरू](https://github.com/xxai-art/web/tree/main/i18n)
 * [लगइन मोड्युलहरूको लागि भाषा प्याकहरू](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [वेबसाइट बहुभाषिक दस्तावेज](https://github.com/xxai-doc)
